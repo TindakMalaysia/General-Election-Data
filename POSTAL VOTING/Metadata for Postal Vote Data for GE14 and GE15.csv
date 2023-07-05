@@ -1,0 +1,37 @@
+﻿Created,22/1/2023
+Source,"EC, Tindak Malaysia, PKR"
+,
+Attribute Heading,Attribute Description
+STATE,Name of the State
+GE14_PARLIAMENTARY_CODE,GE14 Parliamentary Code
+GE14_PARLIAMENTARY_NAME,GE14 Parliamentary Name
+GE14_TOTAL_ELECTORS,GE14 Total Electors
+GE14_TOTAL_TURNOUT,GE14 Total Turnout (Total Ballot Issued)
+GE14_NORMAL_VOTERS_PERCENT,Proportion of Normal Voters for the Parliamentary Constituency in GE14
+GE14_MILITARY_VOTERS_PERCENT,Proportion of Military Voters for the Parliamentary Constituency in GE14
+GE14_POLICE_VOTERS_PERCENT,Proportion of Police Voters for the Parliamentary Constituency in GE14
+GE14_ABSENT_VOTERS_PERCENT,Proportion of Absent Voters for the Parliamentary Constituency in GE14
+GE14_POSTAL_VOTER_SHARE_PERCENT,Share of Postal Voters of Total Turnout
+GE15_PARLIAMENTARY_CODE,GE15 Parliamentary Code
+GE15_PARLIAMENTARY_NAME,GE15 Parliamentary Name
+GE15_TOTAL_ELECTORS,GE15 Total Electors
+GE15_TOTAL_TURNOUT,GE15 Total Turnout (Total Ballot Issued)
+GE15_NORMAL_VOTERS_PERCENT,Proportion of Normal Voters for the Parliamentary Constituency in GE15
+GE15_MILITARY_VOTERS_PERCENT,Proportion of Military Voters for the Parliamentary Constituency in GE15
+GE15_POLICE_VOTERS_PERCENT,Proportion of Police Voters for the Parliamentary Constituency in GE15
+GE15_ABSENT_VOTERS_PERCENT,Proportion of Absent Voters for the Parliamentary Constituency in GE15
+GE15_POSTAL_VOTER_SHARE,Share of Postal Voters of Total Turnout
+NUMERICAL_GROWTH_OF_POSTAL_VOTERS_SINCE_GE14,Difference of Postal Voter Count between GE14 and GE15
+,
+11 Constituencies have no postal vote data for GE15,
+GUA MUSANG,
+KUALA TERENGGANU,
+MARANG,
+KEMAMAN,
+MASJID TANAH,
+SEGAMAT,
+TUARAN,
+PUTATAN,
+TENOM,
+SANDAKAN,
+LUBOK ANTU,
